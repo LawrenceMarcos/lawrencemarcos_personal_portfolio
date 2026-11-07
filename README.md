@@ -48,7 +48,7 @@ You need [XAMPP](https://www.apachefriends.org/) or another PHP server. PHP must
 
 1. Copy the project folder into XAMPP’s `htdocs` folder.
 2. Start Apache in the XAMPP Control Panel.
-3. Open `http://localhost/<project-folder/` in your browser.
+3. Open `http://localhost/lawrencemarcos_personal_portfolio/` in your browser.
 
 ## Project Structure
 
