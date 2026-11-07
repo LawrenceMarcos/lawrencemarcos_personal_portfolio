@@ -1,7 +1,6 @@
 # Lawrence Marcos — Personal Portfolio
 
 **Live website:** [Open my portfolio](https://lawrencemarcos.infinityfree.me/)  
-**Version:** 1.0.0
 
 A personal portfolio website introducing me, showing selected school projects, and providing a contact form.
 
